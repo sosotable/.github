@@ -1,12 +1,12 @@
-# 소소식탁
+# :tea: 소소식탁 :tea:
 
-<!--
+### 상명대학교 소프트웨어개발 소모임 소소식탁
 
-**Here are some ideas to get you started:**
+##### 내가 아닌 우리를 위해
+##### 빠름이 아닌 느림을 위해
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>
+
+### 프로젝트 목록
+- 소보로
+- 소소식탁

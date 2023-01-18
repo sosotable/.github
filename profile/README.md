@@ -15,6 +15,10 @@
 
 ### 인원 목록
 - 이유진 (2022-
+    - https://github.com/Ujin28
 - 윤현조 (2022-
+    - https://github.com/hyunjo01
 - 유동선 (2022-
+    - https://github.com/bear-frog
 - 장혜원 (2022-
+    - https://github.com/hyewoniiiii

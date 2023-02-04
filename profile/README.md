@@ -7,8 +7,8 @@
 <br>
 
 ### 프로젝트 목록
-- 소보로
-- 소소식탁
+- <a href="https://github.com/sosotable/sovoro">소보로</a>
+- <a href="https://github.com/sosotable/sovoro">소소식탁</a>
 
 <br>
 

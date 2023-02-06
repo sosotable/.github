@@ -22,3 +22,8 @@
     - https://github.com/bear-frog
 - 장혜원 (2022-
     - https://github.com/hyewoniiiii
+
+<br>
+
+### 소소식탁 위키
+<a href="https://github.com/sosotable/.github/wiki">소소위키</a>

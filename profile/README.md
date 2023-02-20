@@ -8,7 +8,7 @@
 
 ### 프로젝트 목록
 - <a href="https://github.com/sosotable/sovoro">소보로</a>
-- <a href="https://github.com/sosotable/ssossotable-vanilla-webapp">소소식탁</a>
+- <a href="https://github.com/sosotable/ssossotable">소소식탁</a>
 - <a href="https://github.com/sosotable/ssossotest">소소테스트</a>
 
 <br>
